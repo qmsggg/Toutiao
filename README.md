@@ -15,7 +15,7 @@
 
 头条是一款遵循材料设计(Material Design)的第三方今日头条客户端, 聚合了新闻/段子/图片/视频/头条号内容, 没有广告, 仅仅只有存粹的阅读, 不断完善中, 采用 MVP + RxJava + Retrofit 架构的项目
 
-其中API来自 [今日头条Api分析](https://github.com/iMeiji/Toutiao/wiki/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1Api%E5%88%86%E6%9E%90)
+其中API来自 [今日头条Api分析](https://github.com/qmsggg/Toutiao/wiki/%E5%A4%B4%E6%9D%A1API%E5%88%86%E6%9E%90)
 
 
 ## Statement
